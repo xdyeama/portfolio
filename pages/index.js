@@ -4,7 +4,6 @@ import {
   Heading,
   Box,
   Image,
-  SimpleGrid,
   Button,
   List,
   ListItem,
@@ -18,7 +17,7 @@ import Section from '../components/section'
 import Paragraph from '../components/paragraph'
 import { BioSection, BioYear } from '../components/bio'
 import { FaRegHeart, FaReact, FaPython } from 'react-icons/fa'
-import { IoLogoGithub, IoLogoInstagram, IoLogoTwitter } from 'react-icons/io5'
+import { IoLogoGithub, IoLogoInstagram } from 'react-icons/io5'
 import { BiBookOpen } from 'react-icons/bi'
 import Layout from '../components/layouts/article'
 

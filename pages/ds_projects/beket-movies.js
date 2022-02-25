@@ -5,13 +5,13 @@ import P from '../../components/paragraph'
 import Layout from '../../components/layouts/article'
 
 const BeketMovies = () => (
-  <Layout title='"Beket-Movies" website'>
+  <Layout title='Beket-Movies website'>
     <Container>
       <Title>
-        "Beket-Movies" <Badge>2021</Badge>
+        Beket-Movies <Badge>2021</Badge>
       </Title>
       <P>
-        "Beket-Movies" - frontend web pet project in the form interactive movie database with title search option, that uses external movie database API and Modern Frontend framework such as ReactJS.
+        Beket-Movies - frontend web pet project in the form interactive movie database with title search option, that uses external movie database API and Modern Frontend framework such as ReactJS.
       </P>
       <List ml={4} my={4}>
         <ListItem>
