@@ -4,7 +4,7 @@ import Section from '../components/section'
 import { ProjectGridItem } from '../components/grid-item'
 
 import thumbHouse from '../public/images/ds_projects/housing.jpg'
-import thumbMovies from '../public/images/ds_projects/beket-movies-1.png'
+import thumbMovies from '../public/images/ds_projects/beket-movies1.png'
 import thumbCsgo from '../public/images/ds_projects/csgo.jpg'
 import thumbMnist from '../public/images/ds_projects/mnist.png'
 import thumbCharMnist from '../public/images/ds_projects/char_mnist.png'

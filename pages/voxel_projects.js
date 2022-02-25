@@ -4,10 +4,10 @@ import Section from '../components/section'
 import { VoxelGridItem } from '../components/grid-item'
 
 import thumbCat from '../public/images/voxel_projects/cat.png'
-import thumbTree from '../public/images/voxel_projects/tree.png'
-import thumbTemple from '../public/images/voxel_projects/temple.png'
+import thumbTree from '../public/images/voxel_projects/trees.png'
+import thumbTemple from '../public/images/voxel_projects/templ.png'
 import thumbDog from '../public/images/voxel_projects/dog.png'
-import thumbViking from '../public/images/voxel_projects/viking.png'
+import thumbViking from '../public/images/voxel_projects/vikings.png'
 
 
 const VoxelModels = () => (

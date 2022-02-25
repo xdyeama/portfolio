@@ -30,10 +30,10 @@ const BeketMovies = () => (
         </ListItem>
       </List>
       
-      <ProjectImage src="/images/ds_projects/beket-movies-1.png" alt="Beket-Movies" />
-      <ProjectImage src="/images/ds_projects/beket-movies-2.png" alt="Beket-Movies" />
-      <ProjectImage src="/images/ds_projects/beket-movies-3.png" alt="Beket-Movies" />
-      <ProjectImage src="/images/ds_projects/beket-movies-4.png" alt="Beket-Movies" />
+      <ProjectImage src="/images/ds_projects/beket-movies1.png" alt="Beket-Movies" />
+      <ProjectImage src="/images/ds_projects/beket-movies2.png" alt="Beket-Movies" />
+      <ProjectImage src="/images/ds_projects/beket-movies3.png" alt="Beket-Movies" />
+      <ProjectImage src="/images/ds_projects/beket-movies4.png" alt="Beket-Movies" />
     </Container>
   </Layout>
 )
