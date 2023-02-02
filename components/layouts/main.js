@@ -4,19 +4,17 @@ import { Box, Container } from '@chakra-ui/react'
 import ModelLoader from '../voxel-model-loader'
 import dynamic from 'next/dynamic'
 
-
 const LazyModel = dynamic(() => import('../voxel-model'), {
   ssr: false,
   loading: () => <ModelLoader />
 })
-
 
 const Main = ({ children, router }) => {
   return (
     <Box as="main" pb={8}>
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="description" content="Takuya's homepage" />
+        <meta name="description" content="Beket's homepage" />
         <title>Barlykov Beket - Homepage</title>
       </Head>
       <Navbar path={router.asPath} />
